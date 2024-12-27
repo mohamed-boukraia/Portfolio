@@ -14,15 +14,12 @@
 
 ---
 
-# Demo :movie_camera:
 
-![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
 
 ---
 
-## Table of Contents :scroll:
+<!-- ## Table of Contents :scroll:
 
 - [Sections](#sections-bookmark)
 - [Demo](#demo-movie_camera)
@@ -34,7 +31,7 @@
   - [Gmail App Password Setup](#gmail-app-password-setup)
   - [Create a Telegram Bot](#create-a-telegram-bot)
   - [Fetching Blog from dev.to](#fetching-blog-from-devto)
-- [Packages Used](#packages-used-package)
+- [Packages Used](#packages-used-package) -->
 
 ---
 
